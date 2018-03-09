@@ -1,3 +1,6 @@
+
+redis-trib.rb under redis folder
+
 1. GEM Redis: gem install redis under redis folder
 
 2. Create Redis Nodes: redis-trib.rb create --replicas 1 127.0.0.1:6379 127.0.0.1:6380 127.0.0.1:6381 127.0.0.1:6382 127.0.0.1:6383 127.0.0.1:6384
